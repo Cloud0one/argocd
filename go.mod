@@ -30,7 +30,7 @@ require (
 	github.com/gogits/go-gogs-client v0.0.0-20190616193657-5a05380e4bc2
 	github.com/gogo/protobuf v1.3.2
 	github.com/golang-jwt/jwt/v4 v4.4.3
-	github.com/golang/protobuf v1.5.2
+	github.com/golang/protobuf v1.5.3
 	github.com/google/go-cmp v0.5.9
 	github.com/google/go-github/v35 v35.3.0
 	github.com/google/go-jsonnet v0.19.1
@@ -56,7 +56,7 @@ require (
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/pkg/errors v0.9.1 // indirect
-	github.com/prometheus/client_golang v1.14.0
+	github.com/prometheus/client_golang v1.15.0
 	github.com/r3labs/diff v1.1.0
 	github.com/redis/go-redis/v9 v9.0.2
 	github.com/rs/cors v1.8.0 // indirect
@@ -72,12 +72,12 @@ require (
 	github.com/yuin/gopher-lua v0.0.0-20220504180219-658193537a64
 	golang.org/x/crypto v0.6.0
 	golang.org/x/net v0.7.0 // indirect
-	golang.org/x/oauth2 v0.0.0-20220822191816-0ebed06d0094
+	golang.org/x/oauth2 v0.5.0
 	golang.org/x/sync v0.1.0
 	golang.org/x/term v0.5.0
 	google.golang.org/genproto v0.0.0-20220616135557-88e70c0c3a90
 	google.golang.org/grpc v1.51.0
-	google.golang.org/protobuf v1.28.1
+	google.golang.org/protobuf v1.30.0
 	gopkg.in/go-playground/webhooks.v5 v5.17.0
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.24.2
@@ -195,7 +195,7 @@ require (
 	github.com/liggitt/tabwriter v0.0.0-20181228230101-89fcab3d43de // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/mattn/go-runewidth v0.0.14 // indirect
-	github.com/matttproud/golang_protobuf_extensions v1.0.2-0.20181231171920-c182affec369 // indirect
+	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
 	github.com/mitchellh/copystructure v1.0.0 // indirect
 	github.com/mitchellh/go-wordwrap v1.0.0 // indirect
 	github.com/mitchellh/mapstructure v1.4.3 // indirect
@@ -213,8 +213,8 @@ require (
 	github.com/pjbgf/sha1cd v0.3.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/prometheus/client_model v0.3.0 // indirect
-	github.com/prometheus/common v0.37.0 // indirect
-	github.com/prometheus/procfs v0.8.0 // indirect
+	github.com/prometheus/common v0.42.0 // indirect
+	github.com/prometheus/procfs v0.9.0 // indirect
 	github.com/russross/blackfriday v1.5.2 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/sergi/go-diff v1.1.0 // indirect
@@ -233,7 +233,7 @@ require (
 	go.opentelemetry.io/proto/otlp v0.19.0 // indirect
 	go.starlark.net v0.0.0-20200306205701-8dd3e2ee1dd5 // indirect
 	golang.org/x/mod v0.7.0 // indirect
-	golang.org/x/sys v0.5.0 // indirect
+	golang.org/x/sys v0.6.0 // indirect
 	golang.org/x/text v0.7.0 // indirect
 	golang.org/x/time v0.0.0-20220210224613-90d013bbcef8 // indirect
 	golang.org/x/tools v0.4.0 // indirect
